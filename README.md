@@ -1,6 +1,6 @@
 Here is the demo of this project
-https://utkarsh-gemini-anand.netlify.app
-[Demo Link]()
+
+[Demo Link](https://utkarsh-gemini-anand.netlify.app)
 
 # Google Gemini Clone
 
