@@ -1,3 +1,5 @@
-Here is the live preview of this project
+Here is the demo of this project
 
-[Live Preview](https://utkarsh-gemini-anand.netlify.app)
+[Demo Link](https://utkarsh-gemini-anand.netlify.app)
+
+
